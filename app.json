@@ -1,0 +1,61 @@
+{
+    "name": "Advanced Auto Filter",
+    "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
+    "logo": "https://telegra.ph/file/d8a98ef9cb39829b873fb.jpg",
+    "keywords": [
+        "Auto",
+        "Filter",
+        "Mongo DB"
+    ],
+    "website": "https://github.com/Ts-bots",
+    "repository": "https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone",
+    "success_url": "https://telegram.dog/Ts_bots",
+    "env": {
+        "APP_ID": {
+            "description": "ඔයාගෙ App ID එක :: From my.telegram.org",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "ඔයාගෙ API Hash එක :: From my.telegram.org",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "ඔයාගෙ Bot Token එක :: From @BotFather",
+            "value": ""
+        },
+        "DB_URI": {
+            "description": "ඔයාගෙ Mongo DB URL එක :: From mongodb.com",
+            "value": ""
+        },
+        "USER_SESSION": {
+            "description": "ඔයා ගත්ත Pyrogram User Session String එක :: From https://repl.it/@prgofficial/String-Gen",
+            "value": ""
+        },
+        "BOT_NAME": {
+            "description": "ඔයාගෙ botගෙ නම (Default :: Advanced Auto Filter)",
+            "value": "Auto Filter",
+            "required": false
+        },
+        "GROUP_USERNAME": {
+            "description": "ඔයාගෙ Group Username එක '@' නැතුව (Default :: Group)",
+            "value": "Group", 
+            "required": false
+        },
+        "ADMIN_USERNAME": {
+            "description": "ඔයාගෙ User name එක '@' නැතුව (Default :: Admin)",
+            "value": "Username", 
+            "required": false
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
