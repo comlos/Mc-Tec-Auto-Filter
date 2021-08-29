@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/McAnonymous/Mc-Tec-Auto-Filter/stargazers">
-    <img src="https://img.shields.io/github.com/McAnonymous/Mc-Tec-Auto-Filter?style=social">
+    <img src="https://img.shields.io/github.com/stars/McAnonymous/Mc-Tec-Auto-Filter?style=social">
 
   </a>
   
   <a href="https://github.com/Blackkiller2k20/Mc-Tec-Auto-Filter/fork">
-    <img src="https://img.shields.io/github.com/McAnonymous/Mc-Tec-Auto-Filter?label=Fork&style=social">
+    <img src="https://img.shields.io/github.com/forks/McAnonymous/Mc-Tec-Auto-Filter?label=Fork&style=social">
 
   </a>  
 </p>
