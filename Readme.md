@@ -2,18 +2,18 @@
 
 <p align="center">
   <a href="https://github.com/McAnonymous/Mc-Tec-Auto-Filter/stargazers">
-    <img src="https://img.shields.io/github.com/stars/McAnonymous/Mc-Tec-Auto-Filter?style=social">
+    <img src="https://img.shields.io/github/stars/McAnonymous/Mc-Tec-Auto-Filter?style=social">
 
   </a>
   
-  <a href="https://github.com/Blackkiller2k20/Mc-Tec-Auto-Filter/fork">
-    <img src="https://img.shields.io/github.com/forks/McAnonymous/Mc-Tec-Auto-Filter?label=Fork&style=social">
+  <a href="https://github.com/McAnonymous/Mc-Tec-Auto-Filter/fork">
+    <img src="https://img.shields.io/github/forks/McAnonymous/Mc-Tec-Auto-Filter?label=Fork&style=social">
 
   </a>  
 </p>
 
 __තවත් ‍ෆිල්ටරයක්🤨⁉ඕ, තවත් ‍ෆිල්ටරයක් තමා🤣.<br>
-මේක [Adv-Filter-Bot](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot) Complete Rewritten Version එකක්.__
+මේක [Adv-Filter-Bot-V2](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2) Complete Rewritten Version එකක්.__
 
 __ඔයාට හොයාගන්න ඕන දේ මේ Bot Connect කරල තියන Chat එක්කට දාන්න.DB එකේ ඔයාට ඕන දේ තියනවනම් ඔයාට Button එකක් විදියට Link එක එයි.__
 
